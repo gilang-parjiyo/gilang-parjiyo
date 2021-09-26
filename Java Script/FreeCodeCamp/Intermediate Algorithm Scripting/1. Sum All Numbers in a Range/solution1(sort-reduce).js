@@ -14,11 +14,3 @@ function sumAll(arr = []) {
 console.log(
     sumAll([10, 5])
 );
-
-
-// Logic:
-// start > end = start to end;
-// start < end = end to start;
-// start < end
-// push
-// reduce

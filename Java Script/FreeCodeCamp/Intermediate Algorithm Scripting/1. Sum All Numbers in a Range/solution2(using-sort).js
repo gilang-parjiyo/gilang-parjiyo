@@ -11,6 +11,4 @@ function sumAll(arr = []) {
 
 console.log(
     sumAll([10, 5])
-);
-
-c
+)

@@ -6,6 +6,6 @@ return string
 .toLowerCase();
 }
 
-let str2 = 'thisIs_Spinal-Tap'
+let str2 = 'thisIs-Spinal_case quiz'
 
 console.log(spinalCase(str2));

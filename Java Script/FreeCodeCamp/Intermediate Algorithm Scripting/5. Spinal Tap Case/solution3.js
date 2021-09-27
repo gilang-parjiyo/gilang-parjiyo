@@ -1,7 +1,7 @@
 function spinalCase(string = str) {
     return string.split(/\s|_|(?=[A-Z])/)
     .join('-')
-    .toLowerCase();
+    .toLowerCase()
     
 }
 str = 'thisIs_spinal case'

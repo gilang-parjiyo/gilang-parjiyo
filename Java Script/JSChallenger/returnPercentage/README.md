@@ -1,0 +1,3 @@
+# Take away
+
+- variable deconstruct
